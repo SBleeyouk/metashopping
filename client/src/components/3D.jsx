@@ -1,6 +1,6 @@
 import React from 'react';
 import * as THREE from 'three';
-import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
+//import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 
 class Viewer extends React.Component {
     constructor(props) {
